@@ -1,10 +1,10 @@
 import React from 'react';
-// import Phonebook from './Feedback/Phonebook';
+import Phonebook from './Phonebook/Phonebook';
 
 export function App() {
   return (
     <>
-      {/* <Phonebook /> */}
+      <Phonebook />
     </>
   );
 }
